@@ -9,6 +9,7 @@ Der Inhalt entspricht dem Text der Aufgabe 2 des Moduls.
 Es kann sinnvoll sein, sich die PDF zur Aufgabe 2 noch einmal
 anzusehen
 
+---
 
 ## PDF erstellen
 
@@ -20,6 +21,7 @@ Das geht ganz schnell und einfach:
 3. Alternativ koennen wir auch einfach LaTeX Mk nutzen 
 	"latexmk -pdf ./task.tex"
 
+---
 
 ## !!ACHTUNG!!
 
